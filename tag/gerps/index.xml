@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GERPS | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/tag/gerps/</link>
+      <atom:link href="https://a-genoni.github.io/tag/gerps/index.xml" rel="self" type="application/rss+xml" />
+    <description>GERPS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
+      <title>GERPS</title>
+      <link>https://a-genoni.github.io/tag/gerps/</link>
+    </image>
+    
+    <item>
+      <title>Does international migration make people happy?</title>
+      <link>https://a-genoni.github.io/post/2023-07-07-migration-and-swb/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/post/2023-07-07-migration-and-swb/</guid>
+      <description>&lt;p&gt;I gave a lightning talk at the BiB&amp;rsquo;s Turning Gold conference about &lt;strong&gt;shifts in subjective well-being in the course of international migration&lt;/strong&gt;&amp;mdash;a study with &lt;a href=&#34;https://www.bib.bund.de/EN/Institute/Staff/Stawarz/Stawarz.html;jsessionid=CA1C73D7435F153D69470FF104799585.intranet662&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nico Stawarz&lt;/a&gt;, &lt;a href=&#34;https://www.bib.bund.de/DE/Institut/Mitarbeiter/Ette/Ette.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andreas Ette&lt;/a&gt;, and &lt;a href=&#34;https://www.bib.bund.de/DE/Institut/Mitarbeiter/Rueger/Rueger.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heiko Rüger&lt;/a&gt; (all BiB).&lt;/p&gt;
+&lt;p&gt;Using unique longitudinal data that includes actual migration events (&lt;a href=&#34;https://www.gerps-project.de/gerps/EN/Home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GERPS&lt;/a&gt;), we find robust evidence that the subjective well-being of internationally mobile individuals increases notably with their move abroad (picture).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cultural distance and immigrant adjustment</title>
+      <link>https://a-genoni.github.io/current-work/cd-and-adjustment/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/current-work/cd-and-adjustment/</guid>
+      <description>&lt;p&gt;The cultural distance (CD) between the country of origin and destination
+country of migrants has long been considered important for adjustment in
+international migration. Past research has mainly followed a cost perspective,
+pointing to rising costs in adjustment with increasing CD, postulating a negative
+linear relationship. Following this logic, previous studies overlooked potential
+benefits of CD for adjustment. We address this gap by taking a more differentiated
+perspective on CD and adjustment. Using unique probability-based survey data on
+German migrants in 38 destination countries with a maximum length of
+stay of 36 months, we examined different CD-levels and their consequences for
+adjustment. We ran multilevel regressions for sociocultural and psychological
+adjustment. Importantly, our findings indicate that the CD effect on adjustment
+is not linear but clearly resembles an inverted-U shape for both adjustment
+dimensions. This result challenges the cost perspective and suggests an “optimal”
+range of intermediate CD as most beneficial for recent migrants’ adjustment. We
+conclude that the prevailing view on the consequences of CD for migrant adjustment
+holds true for very large CDs, but it underestimates the challenges for culturally
+close migrants and overlooks that a certain level of cultural dissimilarity can
+facilitate migrants’ adjustment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>International migration and subjective well-being</title>
+      <link>https://a-genoni.github.io/current-work/mig-and-swb/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/current-work/mig-and-swb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internationale Mobilität und Sozialstruktur</title>
+      <link>https://a-genoni.github.io/publication/ette-et-al-2021-internationale-mobilitat/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/publication/ette-et-al-2021-internationale-mobilitat/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Suggested citation:&lt;/strong&gt; Ette, A., Genoni, A., &amp;amp; Witte, N. (2021). Internationale Mobilität und Sozialstruktur. In Federal Statistical Office, Berlin Social Science Center and Federal Institute for Population Research (Eds.), &lt;em&gt;Datenreport 2021. Ein Sozialbericht für die Bundesrepublik Deutschland&lt;/em&gt; (pp. 316–323). Bundeszentrale für politische Bildung.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,33 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Academic</title>
-    <link>https://example.com/publication-type/2/</link>
-      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <title>2 | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/publication-type/2/</link>
+      <atom:link href="https://a-genoni.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://example.com/publication-type/2/</link>
+      <link>https://a-genoni.github.io/publication-type/2/</link>
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <title>International migration and subjective well-being</title>
+      <link>https://a-genoni.github.io/current-work/mig-and-swb/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/current-work/mig-and-swb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmet migration expectations and their consequences for the lives of immigrants</title>
+      <link>https://a-genoni.github.io/current-work/expectations-and-attachment/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/current-work/expectations-and-attachment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status transition in the educational system and well-being of migrant adolescents in cross-national comparison</title>
+      <link>https://a-genoni.github.io/publication/nauck-genoni-2019-status-transition/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/publication/nauck-genoni-2019-status-transition/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+    Suggested Citation:
+Nauck, B., Genoni, A. (2019). Status transition in the educational system and well-being of migrant adolescents in cross-national comparison. &lt;em&gt;Zeitschrift für Erziehungswissenschaft 22&lt;/em&gt;(S1), 47–69. &lt;a href=&#34;https://doi.org/10.1007/s11618-019-00887-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11618-019-00887-z&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,36 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/project/</link>
+      <atom:link href="https://a-genoni.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://a-genoni.github.io/project/</link>
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Analysing and visualising human migration</title>
+      <link>https://a-genoni.github.io/project/human-migration/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/project/human-migration/</guid>
+      <description>&lt;p&gt;This project features personal work on human migration and mobility from a macro perspective. I study  patterns and trends in various forms of spatial mobility in order to reveal interdependencies between them, and to better understand population dynamics. For this purpose, parts of my work are explicitly dedicated to the visualisation of human migration flows by using circular migration plots. Circular migration plots are a viable alternative to conventional flow maps and other existing visualisations of migration flows. They are an effective and visually appealing method for visualising flow data because they allow the reader to quickly identify key patterns and trends.&lt;/p&gt;
+&lt;p&gt;You will find guidance and code that help you create your own circular migration plots in the context of &amp;ldquo;The Global Flow of People 2.0&amp;rdquo; project and the handbook article listed below. Don&amp;rsquo;t hesitate to contact me if you have any further questions.&lt;/p&gt;
+&lt;h4 id=&#34;related-work&#34;&gt;Related work&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Forthcoming | &lt;span style=&#34;color:#93003a&#34;&gt;The Global Flow of People 2.0.&lt;/span&gt; &amp;mdash; An interactive application that visualises global human migration over the past 30 years | with Nikola Sander, Tamilwai Kolowa, Tina Frank, and Clemens Schrammel
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;Who moves where? Global Migration Flows between 2015-2020&lt;/span&gt; &amp;mdash; A poster of international migration flows between the top-50 countries with the largest volume of migration | with Nikola Sander, Tamilwai Kolowa, Tina Frank, and Clemens Schrammel | &lt;a href=&#34;https://github.com/KunstuniLinzViskom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF (available in English and German)&lt;/a&gt;
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Forthcoming | &lt;span style=&#34;color:#93003a&#34;&gt;Data visualisation in migration research. The case of circular migration plots.&lt;/span&gt; In Vargas-Silva, C. &amp;amp; Allen, W. (Eds.). Handbook of Research Methods in Migration. Second edition. Edward Elgar Publishing | with Nikola Sander
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;How have commuting, internal and international migration  changed over time? A trend study of three mobilities using German Microcensus data&lt;/span&gt; | with Nico Stawarz, Heiko Rüger, Andreas Ette, Thomas Skora, Matthias Rosenbaum-Feldbrügge, and Nikola Sander
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2021 | &lt;span style=&#34;color:#93003a&#34;&gt;Globale Bevölkerungsentwicklung. Fakten und Trends.&lt;/span&gt; BiB.Bevölkerungs.Studien 1/2021. Wiesbaden: BiB | &lt;a href=&#34;https://www.bib.bund.de/Publikation/2021/Globale-Bevoelkerungsentwicklung.html?nn=1219558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
+      <title>Cultural distance and adaptation</title>
+      <link>https://a-genoni.github.io/project/cultural-contact-in-migration-contexts/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/project/cultural-contact-in-migration-contexts/</guid>
+      <description>&lt;p&gt;Culture can be considered a relatively stable trait of adult individuals because important parts of personality already form during adolescence. Most individuals emigrate in their adulthood, which means their cultural traits are less malleable once they start living abroad. Cultural differences to non-immigrants therefore become relatively constant distances immigrants have to deal with. Thus, it is important to better understand what role cultural distances play in adapting to a new environment, with increasing time spent abroad, and how immigrants can cope with related challenges. In this project, you will find personal work on these topics.&lt;/p&gt;
+&lt;h4 id=&#34;related-work&#34;&gt;Related work&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Cultural distance and immigrant adjustment&lt;/span&gt; | with Jean Philippe Décieux and Elke Murdock | &lt;a href=&#34;&#34;&gt;more info&lt;/a&gt;
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Expatriate adjustment and the role of cultural distance&lt;/span&gt; | with Jean Philippe Décieux and Heiko Rüger&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individual consequences of international migration</title>
+      <link>https://a-genoni.github.io/project/consequences-of-international-migration/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/project/consequences-of-international-migration/</guid>
+      <description>&lt;p&gt;A question that I am particularly interested in is how international migration impacts the lives of immigrants. This question is a tough one, because it is one of cause and effect and requires unique data to address it.&lt;/p&gt;
+&lt;p&gt;For example, it is not sufficient to compare individuals after their move abroad with non-migrated individuals in their home country, because differences between these groups may be the result of specific characteristics of the individuals within the two groups. If we imagine that migration can be a stressful live event, individuals who move abroad might be healthier and more resilient than individuals who stay put, because migration would otherwise not be feasible.&lt;/p&gt;
+&lt;p&gt;Thus, if researchers would find physical and mental health advantages among migrants, it would be unclear whether they made this discovery because migrants are genuinely healthier and happier, or because migration itself may have contributed to their increased health and happiness. By the way, the thought of migration as a potentially positive life event is not far-fetched at all, because migration may not only be stressful but also open up individual opportunities to develop and thrive.&lt;/p&gt;
+&lt;p&gt;Apparently, addressing the question of cause and effect of migration places an extremely high demand on data. They have to be longitudinal and must include actual migration events. This enables researchers to observe individuals before, during and after their move abroad, and to compare these different stages with each other.&lt;/p&gt;
+&lt;p&gt;But how can researchers find and survey individuals who &lt;strong&gt;will&lt;/strong&gt; move abroad during the time of a planned panel survey? Unless researchers are blessed with foresight, they have to come up with a promising strategy. Luckily, my colleagues at the BiB did so. The &lt;a href=&#34;https://www.gerps-project.de/gerps/EN/Project/Project.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;German Emigration and Remigration Panel Study (GERPS)&lt;/a&gt; meets these high data demands. Following Germans who shortly moved abroad or returned to Germany before the survey started, we collected data of a internationally highly mobile population with a high probability of being internationally mobile again.&lt;/p&gt;
+&lt;p&gt;The work listed below is based on these unique data. It aims to tighten the boundaries of causal inference by shedding light on the actual consequences of international migration for immigrants&amp;rsquo; lives.&lt;/p&gt;
+&lt;h4 id=&#34;related-work&#34;&gt;Related work&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;International migration and the subjective well-being of internationally mobile individuals&lt;/span&gt; | with Nico Stawarz, Andreas Ette, and Heiko Rüger | &lt;a href=&#34;&#34;&gt;more info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The paradox of integration</title>
+      <link>https://a-genoni.github.io/project/paradox-of-integration/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/project/paradox-of-integration/</guid>
+      <description>&lt;p&gt;Research and regular monitors about the integration of immigrants has typically looked at &amp;ldquo;objective&amp;rdquo; indicators of integration such as education, stable employment, language skills or income. In the past years, however, increasingly more attention has been given to the &amp;ldquo;inner life&amp;rdquo; of immigrants, referring to more &amp;ldquo;subjective&amp;rdquo; indicators of integration such as their emotional attachment to the new home, their feelings of belongingness to its society or their perceptions of discrimination.&lt;/p&gt;
+&lt;p&gt;With the continued publication of empirical studies on immigrants&amp;rsquo; subjective integration, an integration paradox has been revealed: Many of those immigrants who seem integrated in terms of their education or occupational status do not feel that they are.&lt;/p&gt;
+&lt;p&gt;Such a misalignment can be problematic because it may increase the likelihood of frustration, mental health issues, and emigration. But the seemingly better integrated are particularly valuable for receiving societies because they can play an important role in helping new arrivals to participate and incorporate into the institutions of the mainstream society. Furthermore, they are more efficiently deployable in the local labour market and less at risk from unemployment. These issues are particularly pressing in times when many developed countries face labour shortages and compete for talents globally.&lt;/p&gt;
+&lt;p&gt;This project bundles personal work on the integration paradox. It looks at different factors and mechanisms that contribute to this paradox, and tries to better understand the potential issues and consequences related to it.&lt;/p&gt;
+&lt;h4 id=&#34;related-work&#34;&gt;Related work&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2022 | &lt;span style=&#34;color:#93003a&#34;&gt;Status and Ethnic Identity. A Study on First- and Second-Generation Migrants in Germany.&lt;/span&gt; Verlag Barbara Budrich | &lt;a href=&#34;https://a-genoni.github.io/publication/genoni-2022-status-and-ethnic-identity/&#34;&gt;publication&lt;/a&gt;
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Unmet migration expectations and their consequences for the lives of immigrants&lt;/span&gt; | with Didier Ruedin | &lt;a href=&#34;&#34;&gt;more info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

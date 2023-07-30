@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>International migration | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/tag/international-migration/</link>
+      <atom:link href="https://a-genoni.github.io/tag/international-migration/index.xml" rel="self" type="application/rss+xml" />
+    <description>International migration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
+      <title>International migration</title>
+      <link>https://a-genoni.github.io/tag/international-migration/</link>
+    </image>
+    
+    <item>
+      <title>Does international migration make people happy?</title>
+      <link>https://a-genoni.github.io/post/2023-07-07-migration-and-swb/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/post/2023-07-07-migration-and-swb/</guid>
+      <description>&lt;p&gt;I gave a lightning talk at the BiB&amp;rsquo;s Turning Gold conference about &lt;strong&gt;shifts in subjective well-being in the course of international migration&lt;/strong&gt;&amp;mdash;a study with &lt;a href=&#34;https://www.bib.bund.de/EN/Institute/Staff/Stawarz/Stawarz.html;jsessionid=CA1C73D7435F153D69470FF104799585.intranet662&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nico Stawarz&lt;/a&gt;, &lt;a href=&#34;https://www.bib.bund.de/DE/Institut/Mitarbeiter/Ette/Ette.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andreas Ette&lt;/a&gt;, and &lt;a href=&#34;https://www.bib.bund.de/DE/Institut/Mitarbeiter/Rueger/Rueger.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heiko Rüger&lt;/a&gt; (all BiB).&lt;/p&gt;
+&lt;p&gt;Using unique longitudinal data that includes actual migration events (&lt;a href=&#34;https://www.gerps-project.de/gerps/EN/Home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GERPS&lt;/a&gt;), we find robust evidence that the subjective well-being of internationally mobile individuals increases notably with their move abroad (picture).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>International migration and subjective well-being</title>
+      <link>https://a-genoni.github.io/current-work/mig-and-swb/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/current-work/mig-and-swb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

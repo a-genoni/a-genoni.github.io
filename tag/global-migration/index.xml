@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Global migration | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/tag/global-migration/</link>
+      <atom:link href="https://a-genoni.github.io/tag/global-migration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Global migration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
+      <title>Global migration</title>
+      <link>https://a-genoni.github.io/tag/global-migration/</link>
+    </image>
+    
+    <item>
+      <title>Analysing and visualising human migration</title>
+      <link>https://a-genoni.github.io/project/human-migration/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/project/human-migration/</guid>
+      <description>&lt;p&gt;This project features personal work on human migration and mobility from a macro perspective. I study  patterns and trends in various forms of spatial mobility in order to reveal interdependencies between them, and to better understand population dynamics. For this purpose, parts of my work are explicitly dedicated to the visualisation of human migration flows by using circular migration plots. Circular migration plots are a viable alternative to conventional flow maps and other existing visualisations of migration flows. They are an effective and visually appealing method for visualising flow data because they allow the reader to quickly identify key patterns and trends.&lt;/p&gt;
+&lt;p&gt;You will find guidance and code that help you create your own circular migration plots in the context of &amp;ldquo;The Global Flow of People 2.0&amp;rdquo; project and the handbook article listed below. Don&amp;rsquo;t hesitate to contact me if you have any further questions.&lt;/p&gt;
+&lt;h4 id=&#34;related-work&#34;&gt;Related work&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Forthcoming | &lt;span style=&#34;color:#93003a&#34;&gt;The Global Flow of People 2.0.&lt;/span&gt; &amp;mdash; An interactive application that visualises global human migration over the past 30 years | with Nikola Sander, Tamilwai Kolowa, Tina Frank, and Clemens Schrammel
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;Who moves where? Global Migration Flows between 2015-2020&lt;/span&gt; &amp;mdash; A poster of international migration flows between the top-50 countries with the largest volume of migration | with Nikola Sander, Tamilwai Kolowa, Tina Frank, and Clemens Schrammel | &lt;a href=&#34;https://github.com/KunstuniLinzViskom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF (available in English and German)&lt;/a&gt;
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Forthcoming | &lt;span style=&#34;color:#93003a&#34;&gt;Data visualisation in migration research. The case of circular migration plots.&lt;/span&gt; In Vargas-Silva, C. &amp;amp; Allen, W. (Eds.). Handbook of Research Methods in Migration. Second edition. Edward Elgar Publishing | with Nikola Sander
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;How have commuting, internal and international migration  changed over time? A trend study of three mobilities using German Microcensus data&lt;/span&gt; | with Nico Stawarz, Heiko Rüger, Andreas Ette, Thomas Skora, Matthias Rosenbaum-Feldbrügge, and Nikola Sander
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2021 | &lt;span style=&#34;color:#93003a&#34;&gt;Globale Bevölkerungsentwicklung. Fakten und Trends.&lt;/span&gt; BiB.Bevölkerungs.Studien 1/2021. Wiesbaden: BiB | &lt;a href=&#34;https://www.bib.bund.de/Publikation/2021/Globale-Bevoelkerungsentwicklung.html?nn=1219558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

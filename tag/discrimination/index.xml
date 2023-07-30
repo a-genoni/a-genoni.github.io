@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discrimination | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/tag/discrimination/</link>
+      <atom:link href="https://a-genoni.github.io/tag/discrimination/index.xml" rel="self" type="application/rss+xml" />
+    <description>Discrimination</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
+      <title>Discrimination</title>
+      <link>https://a-genoni.github.io/tag/discrimination/</link>
+    </image>
+    
+    <item>
+      <title>High hopes, high disappointment?</title>
+      <link>https://a-genoni.github.io/post/2023-06-15-shp-conference/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/post/2023-06-15-shp-conference/</guid>
+      <description>&lt;h4 id=&#34;what-happens-when-expectations-of-immigrants-about-live-abroad-do-not-meet-with-their-experiences&#34;&gt;What happens when expectations of immigrants about live abroad do not meet with their experiences?&lt;/h4&gt;
+&lt;p&gt;I gave a talk about how unmet migration expectations influence the lives of immigrants. I started this work together with &lt;a href=&#34;https://druedin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Didier Ruedin&lt;/a&gt; (University of Neuchâtel) last winter during my research stay at the Swiss National Center of Competence in Research (NCCR) on Migration and Mobility Studies.&lt;/p&gt;
+&lt;p&gt;Using panel data of the Migration-Mobility Survey (MMS), we observed that unmet migration expectations hit harder on immigrants with tertiary education than immigrants with non-tertiary education. We found robust evidence for comparably stronger perceptions of discrimination (picture) and increased emotional disengagement with Switzerland. Stay tuned for the paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individual consequences of international migration</title>
+      <link>https://a-genoni.github.io/project/consequences-of-international-migration/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/project/consequences-of-international-migration/</guid>
+      <description>&lt;p&gt;A question that I am particularly interested in is how international migration impacts the lives of immigrants. This question is a tough one, because it is one of cause and effect and requires unique data to address it.&lt;/p&gt;
+&lt;p&gt;For example, it is not sufficient to compare individuals after their move abroad with non-migrated individuals in their home country, because differences between these groups may be the result of specific characteristics of the individuals within the two groups. If we imagine that migration can be a stressful live event, individuals who move abroad might be healthier and more resilient than individuals who stay put, because migration would otherwise not be feasible.&lt;/p&gt;
+&lt;p&gt;Thus, if researchers would find physical and mental health advantages among migrants, it would be unclear whether they made this discovery because migrants are genuinely healthier and happier, or because migration itself may have contributed to their increased health and happiness. By the way, the thought of migration as a potentially positive life event is not far-fetched at all, because migration may not only be stressful but also open up individual opportunities to develop and thrive.&lt;/p&gt;
+&lt;p&gt;Apparently, addressing the question of cause and effect of migration places an extremely high demand on data. They have to be longitudinal and must include actual migration events. This enables researchers to observe individuals before, during and after their move abroad, and to compare these different stages with each other.&lt;/p&gt;
+&lt;p&gt;But how can researchers find and survey individuals who &lt;strong&gt;will&lt;/strong&gt; move abroad during the time of a planned panel survey? Unless researchers are blessed with foresight, they have to come up with a promising strategy. Luckily, my colleagues at the BiB did so. The &lt;a href=&#34;https://www.gerps-project.de/gerps/EN/Project/Project.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;German Emigration and Remigration Panel Study (GERPS)&lt;/a&gt; meets these high data demands. Following Germans who shortly moved abroad or returned to Germany before the survey started, we collected data of a internationally highly mobile population with a high probability of being internationally mobile again.&lt;/p&gt;
+&lt;p&gt;The work listed below is based on these unique data. It aims to tighten the boundaries of causal inference by shedding light on the actual consequences of international migration for immigrants&amp;rsquo; lives.&lt;/p&gt;
+&lt;h4 id=&#34;related-work&#34;&gt;Related work&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;International migration and the subjective well-being of internationally mobile individuals&lt;/span&gt; | with Nico Stawarz, Andreas Ette, and Heiko Rüger | &lt;a href=&#34;&#34;&gt;more info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unmet migration expectations and their consequences for the lives of immigrants</title>
+      <link>https://a-genoni.github.io/current-work/expectations-and-attachment/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/current-work/expectations-and-attachment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
