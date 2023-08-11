@@ -45,7 +45,7 @@ the years ahead: Monitoring the well-being of the German population.&lt;/p&gt;
       <description>&lt;h4 id=&#34;what-makes-good-dataviz-for-policy-relevant-research&#34;&gt;What makes good dataviz for policy relevant research?&lt;/h4&gt;
 &lt;p&gt;Data visualisation plays an important role in communicating research to others. This is especially the
 case in policy-making processes, where researchers want to avoid misinterpretation of empirical evidence.&lt;/p&gt;
-&lt;h4 id=&#34;know-our-stuff&#34;&gt;Know our stuff&lt;/h4&gt;
+&lt;h4 id=&#34;knowing-our-stuff&#34;&gt;Knowing our stuff&lt;/h4&gt;
 &lt;p&gt;Participants agreed that for being able to communicate research through visualisations,
 researchers first have to understand what they are doing. This may seem like a no-brainer but
 researchers have to make themselves familiar with the data they are working with, and,
@@ -392,20 +392,66 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Privacy Policy</title>
+      <title>Datenschutzerklärung</title>
       <link>https://a-genoni.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>https://a-genoni.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://a-genoni.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://a-genoni.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+      <description>&lt;h2&gt;Allgemeiner Hinweis und Pflichtinformationen&lt;/h2&gt;
+&lt;h3&gt;Benennung der verantwortlichen Stelle&lt;/h3&gt;
+&lt;p&gt;Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:&lt;/p&gt;
+Andreas Genoni&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;s3-t-strasse&#34;&gt;Friedrich-Ebert-Allee 4&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;s3-t-plz&#34;&gt;65185&lt;/span&gt; &lt;span id=&#34;s3-t-ort&#34;&gt;Wiesbaden&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).&lt;/p&gt;
+&lt;h3&gt;Widerruf Ihrer Einwilligung zur Datenverarbeitung&lt;/h3&gt;
+&lt;p&gt;Nur mit Ihrer ausdrücklichen Einwilligung sind einige Vorgänge der Datenverarbeitung möglich. Ein Widerruf Ihrer bereits erteilten Einwilligung ist jederzeit möglich. Für den Widerruf genügt eine formlose Mitteilung per E-Mail. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.&lt;/p&gt;
+&lt;h3&gt;Recht auf Beschwerde bei der zuständigen Aufsichtsbehörde&lt;/h3&gt;
+&lt;p&gt;Als Betroffener steht Ihnen im Falle eines datenschutzrechtlichen Verstoßes ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde bezüglich datenschutzrechtlicher Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem sich der Sitz unseres Unternehmens befindet. Der folgende Link stellt eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten bereit: &lt;a href=&#34;https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html&#34; target=&#34;_blank&#34;&gt;https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Recht auf Datenübertragbarkeit&lt;/h3&gt;
+&lt;p&gt;Ihnen steht das Recht zu, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an Dritte aushändigen zu lassen. Die Bereitstellung erfolgt in einem maschinenlesbaren Format. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.&lt;/p&gt;
+&lt;h3&gt;Recht auf Auskunft, Berichtigung, Sperrung, Löschung&lt;/h3&gt;
+&lt;p&gt;Sie haben jederzeit im Rahmen der geltenden gesetzlichen Bestimmungen das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, Herkunft der Daten, deren Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Diesbezüglich und auch zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit über die im Impressum aufgeführten Kontaktmöglichkeiten an uns wenden.&lt;/p&gt;
+&lt;h3&gt;SSL- bzw. TLS-Verschlüsselung&lt;/h3&gt;
+&lt;p&gt;Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der „https://“ Adresszeile Ihres Browsers und am Schloss-Symbol in der Browserzeile.&lt;/p&gt;
+&lt;h2&gt;Server-Log-Dateien&lt;/h2&gt;
+&lt;p&gt;In Server-Log-Dateien erhebt und speichert der Provider der Website automatisch Informationen, die Ihr Browser automatisch an uns übermittelt. Dies sind:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		&lt;p&gt;Besuchte Seite auf unserer Domain&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;Datum und Uhrzeit der Serveranfrage&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;Browsertyp und Browserversion&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;Verwendetes Betriebssystem&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;Referrer URL&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;Hostname des zugreifenden Rechners&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;IP-Adresse&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es findet keine Zusammenführung dieser Daten mit anderen Datenquellen statt. Grundlage der Datenverarbeitung bildet Art. 6 Abs. 1 lit. b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.&lt;/p&gt;
+&lt;h2&gt;Cookies&lt;/h2&gt;
+&lt;p&gt;Unsere Website verwendet Cookies. Das sind kleine Textdateien, die Ihr Webbrowser auf Ihrem Endgerät speichert. Cookies helfen uns dabei, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen.&lt;/p&gt;
+&lt;p&gt;Einige Cookies sind “Session-Cookies.” Solche Cookies werden nach Ende Ihrer Browser-Sitzung von selbst gelöscht. Hingegen bleiben andere Cookies auf Ihrem Endgerät bestehen, bis Sie diese selbst löschen. Solche Cookies helfen uns, Sie bei Rückkehr auf unserer Website wiederzuerkennen.&lt;/p&gt;
+&lt;p&gt;Mit einem modernen Webbrowser können Sie das Setzen von Cookies überwachen, einschränken oder unterbinden. Viele Webbrowser lassen sich so konfigurieren, dass Cookies mit dem Schließen des Programms von selbst gelöscht werden. Die Deaktivierung von Cookies kann eine eingeschränkte Funktionalität unserer Website zur Folge haben.&lt;/p&gt;
+&lt;p&gt;Das Setzen von Cookies, die zur Ausübung elektronischer Kommunikationsvorgänge oder der Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (z.B. Warenkorb) notwendig sind, erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Als Betreiber dieser Website haben wir ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und reibungslosen Bereitstellung unserer Dienste. Sofern die Setzung anderer Cookies (z.B. für Analyse-Funktionen) erfolgt, werden diese in dieser Datenschutzerklärung separat behandelt.&lt;/p&gt;
+&lt;h2&gt;Google Analytics&lt;/h2&gt;
+&lt;h3&gt;Art und Umfang der Verarbeitung&lt;/h3&gt;
+&lt;p&gt;Wir verwenden Google Analytics von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, als Analysedienst zur statistischen Auswertung unseres Onlineangebotes. Diese umfasst beispielsweise die Anzahl der Aufrufe unseres Onlineangebotes, besuchte Unterseiten und die Verweildauer von Besuchern. Google Analytics nutzt Cookies und weitere Browser-Technologien, um Nutzerverhalten auszuwerten und Nutzer wiederzuerkennen. Diese Informationen werden unter anderem genutzt, um Berichte über die Aktivität der Website zusammenzustellen.&lt;/p&gt;
+&lt;h3&gt;Zweck und Rechtsgrundlage&lt;/h3&gt;
+&lt;p&gt;Der Einsatz von Google Analytics erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a. DSGVO und § 25 Abs. 1 TTDSG.&lt;/p&gt;
+&lt;p&gt;Wir beabsichtigen personenbezogenen Daten an Drittländer außerhalb des Europäischen Wirtschaftsraums, insbesondere die USA, zu übermitteln. In Fällen, in denen kein Angemessenheitsbeschluss der Europäischen Kommission existiert (z.B. in den USA) haben wir mit den Empfängern der Daten anderweitige geeignete Garantien im Sinne der Art. 44 ff. DSGVO vereinbart. Dies sind – sofern nicht anders angegeben – Standardvertragsklauseln der EU-Kommission gemäß Durchführungsbeschluss (EU) 2021/914 vom 4. Juni 2021. Eine Kopie dieser Standardvertragsklauseln können Sie unter &lt;a href=&#34;https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32021D0914&amp;from=DE&#34;&gt;https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32021D0914&amp;from=DE&lt;/a&gt; einsehen.&lt;/p&gt;
+&lt;p&gt;Zudem holen wir vor einem solchen Drittlandtransfer Ihre Einwilligung nach Art. 49 Abs. 1 Satz 1 lit. a. DSGVO ein, die Sie über die Einwilligung im Consent Manager (oder sonstigen Formularen, Registrierungen etc.) erteilen. Wir weisen Sie darauf hin, dass bei Drittlandübermittlungen im Detail unbekannte Risiken (z.B. die Datenverarbeitung durch Sicherheitsbehörden des Drittlandes, deren genauer Umfang und deren Folgen für Sie wir nicht kennen, auf die wir keinen Einfluss haben und von denen Sie unter Umständen keine Kenntnis erlangen) bestehen können.&lt;/p&gt;
+&lt;h3&gt;Speicherdauer&lt;/h3&gt;
+&lt;p&gt;Die konkrete Speicherdauer der verarbeiteten Daten ist nicht durch uns beeinflussbar, sondern wird von Google Ireland Limited bestimmt. Weitere Hinweise finden Sie in der Datenschutzerklärung für Google Analytics: &lt;a href=&#34;https://policies.google.com/privacy&#34;&gt;https://policies.google.com/privacy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Erstellt mithilfe von: Datenschutz-Konfigurator von &lt;a href=&#34;https://www.mein-datenschutzbeauftragter.de&#34; target=&#34;_blank&#34;&gt;Mein-Datenschutzbeauftragter.de&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 </description>
     </item>
     
