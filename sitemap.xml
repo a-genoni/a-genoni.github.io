@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://a-genoni.github.io/post/2023-09-09-imiscoe-cfp/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/tag/belonging/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,6 +19,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/tag/discrimination/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/post/2023-09-09-imiscoe-cfp/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
