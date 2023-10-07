@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FReDA | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/tag/freda/</link>
+      <atom:link href="https://a-genoni.github.io/tag/freda/index.xml" rel="self" type="application/rss+xml" />
+    <description>FReDA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
+      <title>FReDA</title>
+      <link>https://a-genoni.github.io/tag/freda/</link>
+    </image>
+    
+    <item>
+      <title>Presenting: The BiB Well-Being Monitor 2023</title>
+      <link>https://a-genoni.github.io/post/2023-10-05-wb-monitor/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/post/2023-10-05-wb-monitor/</guid>
+      <description>&lt;p&gt;The BiB has a new flagship product: The BiB Well-Being Monitor.&lt;/p&gt;
+&lt;p&gt;Its idea is to inform the public and policy makers about the well-being of the German population. Among existing transfer publications on well-being, the monitor stands out with its focus on the most dissatisfied and satisfied people in the population. Going beyond the average well-being level of groups makes the report particularly useful for policy makers to maintain the well-being of the highly satisfied and improve the well-being of the most vulnerable groups.&lt;/p&gt;
+&lt;p&gt;The monitor is written in German but I give you a quick summary about what we&amp;rsquo;ve found for the migrant population.&lt;/p&gt;
+&lt;h4 id=&#34;children-of-immigrants-are-the-least-satisfied&#34;&gt;Children of immigrants are the least satisfied&lt;/h4&gt;
+&lt;p&gt;Compared to immigrants and the resident population, children of immigrants are the least satisfied. They more often report particularly low satisfaction with their life.&lt;/p&gt;
+&lt;p&gt;Take a look at the figure above: The children of immigrants&amp;ndash;or the people from the so-called second generation&amp;ndash;are shown in the middle. They have the highest share of people who are less satisfied (39.7%, represented by the blueish bar), and the lowest share of people who are very satisfied (12.1%, represented by the greenish bar).&lt;/p&gt;
+&lt;p&gt;These shares particularly contrast those in the immigrant population&amp;ndash;the so-called first generation&amp;ndash;, which you see on the far right in the figure.&lt;/p&gt;
+&lt;h4 id=&#34;smaller-differences-bigger-impact&#34;&gt;Smaller differences, bigger impact&lt;/h4&gt;
+&lt;p&gt;Strange, isn&amp;rsquo;t it? The second generation, whose living conditions are more similar to those of the resident population, are less satisfied than the first generation who immigrated themselves and have to find their way.&lt;/p&gt;
+&lt;p&gt;One of the most plausible explanations for this difference is that first- and second-generation migrants tend to use different reference points against which they evaluate their life and satisfaction with it. While immigrants more likely compare their current life abroad to their past in the origin country or non-migrated peers, children of immigrants tend to compare their situation more likely to that of the resident population. For immigrants, the comparison often feels positive, knowing that they left for a (hopefully) better future. For their children however, the comparison is often to their disadvantage, revealing the admittedly smaller but still existing inequalities that clash with unmet desires of same life chances and equal treatment.&lt;/p&gt;
+&lt;h4 id=&#34;more-information&#34;&gt;More information&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;You can download the Monitor &lt;a href=&#34;https://www.bib.bund.de/Publikation/2023/BiB-Monitor-2023-Wohlbefinden-Wie-zufrieden-ist-die-Bevoelkerung-in-Deutschland.html?nn=1219342&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. (German only)&lt;/li&gt;
+&lt;li&gt;And &lt;a href=&#34;https://www.freda-panel.de/FReDA/EN/Startseite.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, you find more information on the FReDA Panel, the data on which the Monitor is based. (English and German)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

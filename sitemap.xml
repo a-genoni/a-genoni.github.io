@@ -2,15 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://a-genoni.github.io/tag/bib/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/categories/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/freda/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/germany/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/post/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/post/2023-10-05-wb-monitor/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/category/publication/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/report/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tags/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/well-being/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://a-genoni.github.io/tag/belonging/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/category/call/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/categories/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -27,14 +63,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/tag/integration-paradox/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/post/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tags/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -58,15 +86,7 @@
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/tag/bib/</loc>
-    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/post/2023-07-09-session-on-well-being/</loc>
-    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tag/well-being/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -139,10 +159,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/current-work/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tag/germany/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
