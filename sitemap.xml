@@ -2,11 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://a-genoni.github.io/tag/bib/</loc>
-    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <loc>https://a-genoni.github.io/tag/belonging/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/categories/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/discrimination/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/expectations/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/integration-paradox/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/post/2023-11-04-nccr-blog/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/post/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/category/publication/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tags/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/bib/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -18,15 +50,7 @@
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/post/</loc>
-    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/post/2023-10-05-wb-monitor/</loc>
-    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/category/publication/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -34,15 +58,11 @@
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/tags/</loc>
-    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/tag/well-being/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/tag/belonging/</loc>
+    <loc>https://a-genoni.github.io/post/2023-09-09-imiscoe-cfp/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -51,18 +71,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/category/conference/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tag/discrimination/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/post/2023-09-09-imiscoe-cfp/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tag/integration-paradox/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
