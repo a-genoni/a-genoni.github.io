@@ -5,28 +5,12 @@
     <link>https://a-genoni.github.io/category/publication/</link>
       <atom:link href="https://a-genoni.github.io/category/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
       <title>Publication</title>
       <link>https://a-genoni.github.io/category/publication/</link>
     </image>
-    
-    <item>
-      <title>Ever wondered about the movement of people around the world?</title>
-      <link>https://a-genoni.github.io/post/2023-12-18-global-flow-2.0/</link>
-      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://a-genoni.github.io/post/2023-12-18-global-flow-2.0/</guid>
-      <description>&lt;h3 id=&#34;the-global-flow-of-people-20&#34;&gt;The Global Flow of People 2.0&lt;/h3&gt;
-&lt;p&gt;With this interactive tool, you can find out which places people around the world leave and which places they move to. You can either look at global migration in general, at global refugees in particular, or at the movement of people within Germany.&lt;/p&gt;
-&lt;p&gt;The interactive visualisation is part of an international project that I managed and coordinated. &lt;a href=&#34;www.nikolasander.com&#34;&gt;Nikola Sander&lt;/a&gt;, &lt;a href=&#34;https://www.bib.bund.de/DE/Institut/Mitarbeiter/Kolowa/Kolowa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tamilwai Kolowa&lt;/a&gt; (both BiB), Tina Frank, Clemens Schrammel (both University of Arts Linz) and Ramon Bauer (Statistics Vienna) were involved.
-&lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;Note: The iframe is not working yet but you&amp;rsquo;ll find the tool &lt;a href=&#34;https://www.bib.bund.de/EN/Service/Tools/Migration/Globalflows.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; as well.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;150&#34; name=&#34;iframe&#34; src=&#34;www.bib.bund.de/DE/Fakten/Tools/Migration/iframe/iframe.html&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt; &lt;br /&gt;
-You can find out more about the data and the visualisation on the &lt;a href=&#34;https://www.bib.bund.de/EN/Service/Tools/Migration/Globalflows.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;main site of our project&lt;/a&gt;. There, you will also find more download material such as the underlying data and R scripts to create static versions of the interactive circular migration plot.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>New blog post: Unmet expectations of immigrants and their consequences</title>
