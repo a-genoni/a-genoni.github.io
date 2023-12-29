@@ -13,6 +13,21 @@
     </image>
     
     <item>
+      <title>Ever wondered about the movement of people around the world?</title>
+      <link>https://a-genoni.github.io/post/2023-12-18-global-flow-2.0/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/post/2023-12-18-global-flow-2.0/</guid>
+      <description>&lt;h3 id=&#34;the-global-flow-of-people-20&#34;&gt;The Global Flow of People 2.0&lt;/h3&gt;
+&lt;p&gt;With this interactive tool, you can find out which places people around the world leave and which places they move to. You can either look at global migration in general, at global refugees in particular, or at the movement of people within Germany.&lt;/p&gt;
+&lt;p&gt;The interactive visualisation is part of an international project that I managed and coordinated. &lt;a href=&#34;www.nikolasander.com&#34;&gt;Nikola Sander&lt;/a&gt;, &lt;a href=&#34;https://www.bib.bund.de/DE/Institut/Mitarbeiter/Kolowa/Kolowa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tamilwai Kolowa&lt;/a&gt; (both BiB), Tina Frank, Clemens Schrammel (both University of Arts Linz) and Ramon Bauer (Statistics Vienna) were involved.
+&lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;150&#34; name=&#34;iframe&#34; src=&#34;www.bib.bund.de/DE/Fakten/Tools/Migration/iframe/iframe.html&#34;&gt;&lt;/iframe&gt;
+&lt;br /&gt; &lt;br /&gt;
+You can find out more about the data and the visualisation on the [main site of our project](www.bib.bund.de/globalflows). There, you will also find more download material such as the underlying data and the R code to create static versions of the circular migration plot.
+</description>
+    </item>
+    
+    <item>
       <title>Is it all about the costs? Cultural distance and adjustment of recent migrants</title>
       <link>https://a-genoni.github.io/publication/genoni-et-al-2023-is-it-all-about-costs/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
@@ -151,11 +166,11 @@ visualising data properly takes more time&amp;mdash;and time is a limited resour
 &lt;p&gt;You will find guidance and code that help you create your own circular migration plots in the context of &amp;ldquo;The Global Flow of People 2.0&amp;rdquo; project and the handbook article listed below. Don&amp;rsquo;t hesitate to contact me if you have any further questions.&lt;/p&gt;
 &lt;h4 id=&#34;related-work&#34;&gt;Related work&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;Who moves where? Global Migration Flows between 2015-2020&lt;/span&gt; &amp;mdash; A poster of international migration flows between the top-50 countries with the largest volume of migration | with Nikola Sander, Tamilwai Kolowa, Tina Frank, and Clemens Schrammel | &lt;a href=&#34;https://github.com/KunstuniLinzViskom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF (available in English and German)&lt;/a&gt;
+&lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;The Global Flow of People 2.0.&lt;/span&gt; &amp;mdash; An interactive tool that visualises global human migration over the past 30 years | with Nikola Sander, Tamilwai Kolowa, Tina Frank, and Clemens Schrammel | &lt;a href=&#34;https://www.bib.bund.de/EN/Service/Tools/Migration/Globalflows.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visit the tool&lt;/a&gt;
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;Who moves where? Global Migration Flows between 2015-2020&lt;/span&gt; &amp;mdash; A poster of international migration flows between the top-50 countries with the largest volume of migration | with Nikola Sander, Tamilwai Kolowa, Tina Frank, and Clemens Schrammel | &lt;a href=&#34;https://a-genoni.github.io/uploads/Global-Migration-Flows-2015-2020-EN.pdf&#34;&gt;&lt;span &gt;PDF (EN)&lt;/span&gt;&lt;/a&gt; | &lt;a href=&#34;https://a-genoni.github.io/uploads/Global-Migration-Flows-2015-2020-DE.pdf&#34;&gt;&lt;span &gt;PDF (DE)&lt;/span&gt;&lt;/a&gt;
 &lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;2021 | &lt;span style=&#34;color:#93003a&#34;&gt;Globale Bevölkerungsentwicklung. Fakten und Trends.&lt;/span&gt; BiB.Bevölkerungs.Studien 1/2021. Wiesbaden: BiB | &lt;a href=&#34;https://www.bib.bund.de/Publikation/2021/Globale-Bevoelkerungsentwicklung.html?nn=1219558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;
-&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Forthcoming | &lt;span style=&#34;color:#93003a&#34;&gt;The Global Flow of People 2.0.&lt;/span&gt; &amp;mdash; An interactive application that visualises global human migration over the past 30 years | with Nikola Sander, Tamilwai Kolowa, Tina Frank, and Clemens Schrammel
 &lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Forthcoming | &lt;span style=&#34;color:#93003a&#34;&gt;Data visualisation in migration research. The case of circular migration plots.&lt;/span&gt; In Vargas-Silva, C. &amp;amp; Allen, W. (Eds.). &lt;em&gt;Handbook of Research Methods in Migration. Second edition.&lt;/em&gt; Edward Elgar Publishing | with Nikola Sander
 &lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
@@ -234,7 +249,7 @@ level in the first two years after migration.&lt;/p&gt;
 &lt;p&gt;This project brings together work about whether these people succeed, and the factors that contribute to achieving or missing their goal.&lt;/p&gt;
 &lt;h4 id=&#34;related-work&#34;&gt;Related work&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;Subjektives Wohlbefinden und demografische Ergeinisse im Lebenslauf.&lt;/span&gt; &lt;em&gt;WISTA - Wirtschaft und Statistik&lt;/em&gt; | with Volker Cihlar, Nadja Milewski, C. Katharina Spieß, and Nico Stawarz | &lt;a href=&#34;https://a-genoni.github.io/uploads/12_Cihlar%20et%20al.%202023.%20Subjektives%20Wohlbefinden%20und%20demografische%20Ereignisse%20im%20Lebenslauf.pdf&#34;&gt;&lt;span &gt;PDF&lt;/span&gt;&lt;/a&gt;
+&lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;Subjektives Wohlbefinden und demografische Ergeinisse im Lebenslauf.&lt;/span&gt; &lt;em&gt;WISTA - Wirtschaft und Statistik, 6&lt;/em&gt; | with Volker Cihlar, Nadja Milewski, C. Katharina Spieß, and Nico Stawarz | &lt;a href=&#34;https://a-genoni.github.io/uploads/12_Cihlar%20et%20al.%202023.%20Subjektives%20Wohlbefinden%20und%20demografische%20Ereignisse%20im%20Lebenslauf.pdf&#34;&gt;&lt;span &gt;PDF&lt;/span&gt;&lt;/a&gt;
 &lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;BiB.Monitor Wohlbefinden 2023. Wie zufrieden ist die Bevölkerung Deutschlands?&lt;/span&gt; | with C. Katharina Spieß, Mara Barschkett, Volker Cihlar, Anna Dechant, Jean Philipp Décieux, Sabine Diabaté, Elke Lochinger, Nadja Milewski, Heiko Rüger, Sophia Schmitz, and Nico Stawarz | &lt;a href=&#34;https://a-genoni.github.io/uploads/9_Spie%C3%9F%20et%20al.%202023.%20BiB-Monitor-Wohlbefinden-Wie-zufrieden-ist-die-Bevoelkerung-in-Deutschland.pdf&#34;&gt;&lt;span &gt;PDF&lt;/span&gt;&lt;/a&gt;
 &lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
