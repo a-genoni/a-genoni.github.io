@@ -5,35 +5,12 @@
     <link>https://a-genoni.github.io/tag/dataviz/</link>
       <atom:link href="https://a-genoni.github.io/tag/dataviz/index.xml" rel="self" type="application/rss+xml" />
     <description>Dataviz</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
       <title>Dataviz</title>
       <link>https://a-genoni.github.io/tag/dataviz/</link>
     </image>
-    
-    <item>
-      <title>Round table on dataviz in policy relevant research</title>
-      <link>https://a-genoni.github.io/post/2020-07-06-dataviz-round-table/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://a-genoni.github.io/post/2020-07-06-dataviz-round-table/</guid>
-      <description>&lt;h4 id=&#34;what-makes-good-dataviz-for-policy-relevant-research&#34;&gt;What makes good dataviz for policy relevant research?&lt;/h4&gt;
-&lt;p&gt;Data visualisation plays an important role in communicating research to others. This is especially the
-case in policy-making processes, where researchers want to avoid misinterpretation of empirical evidence.&lt;/p&gt;
-&lt;h4 id=&#34;knowing-our-stuff&#34;&gt;Knowing our stuff&lt;/h4&gt;
-&lt;p&gt;Participants agreed that for being able to communicate research through visualisations,
-researchers first have to understand what they are doing. This may seem like a no-brainer but
-researchers have to make themselves familiar with the data they are working with, and,
-depending on the discipline, with the mechanisms that contribute to the observed patterns in the data.&lt;/p&gt;
-&lt;p&gt;Researchers are responsible for their products, and responsibility can best be borne by knowledgeable people.&lt;/p&gt;
-&lt;h4 id=&#34;finding-the-middle-ground&#34;&gt;Finding the middle ground&lt;/h4&gt;
-&lt;p&gt;The challenge that most participants of the round table addressed was to deal
-with trade-offs between simplicity and complexity. Policy makers want numbers
-to quantify things but a single number often provides incomplete information of complex
-relationships in the data. Dataviz helps to attach more information to numbers but
-visualising data properly takes more time&amp;mdash;and time is a limited resource in policy-making processes.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Analysing and visualising human migration</title>

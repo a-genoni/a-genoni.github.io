@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data visualisation | Andreas Genoni</title>
-    <link>https://a-genoni.github.io/category/data-visualisation/</link>
-      <atom:link href="https://a-genoni.github.io/category/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://a-genoni.github.io/tag/data-visualisation/</link>
+      <atom:link href="https://a-genoni.github.io/tag/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
     <description>Data visualisation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
       <title>Data visualisation</title>
-      <link>https://a-genoni.github.io/category/data-visualisation/</link>
+      <link>https://a-genoni.github.io/tag/data-visualisation/</link>
     </image>
     
     <item>
@@ -25,6 +25,29 @@
 &lt;iframe width=&#34;100%&#34; height=&#34;150&#34; name=&#34;iframe&#34; src=&#34;https://www.bib.bund.de/EN/Service/Tools/Migration/iframe/iframe.html&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;br /&gt; &lt;br /&gt;
 You can find out more about the data and the visualisation on the &lt;a href=&#34;https://www.bib.bund.de/EN/Service/Tools/Migration/Globalflows.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;main site of our project&lt;/a&gt;. There, you will also find more download material such as the underlying data and R scripts to create static versions of the interactive circular migration plot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Round table on dataviz in policy relevant research</title>
+      <link>https://a-genoni.github.io/post/2020-07-06-dataviz-round-table/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/post/2020-07-06-dataviz-round-table/</guid>
+      <description>&lt;h4 id=&#34;what-makes-good-dataviz-for-policy-relevant-research&#34;&gt;What makes good dataviz for policy relevant research?&lt;/h4&gt;
+&lt;p&gt;Data visualisation plays an important role in communicating research to others. This is especially the
+case in policy-making processes, where researchers want to avoid misinterpretation of empirical evidence.&lt;/p&gt;
+&lt;h4 id=&#34;knowing-our-stuff&#34;&gt;Knowing our stuff&lt;/h4&gt;
+&lt;p&gt;Participants agreed that for being able to communicate research through visualisations,
+researchers first have to understand what they are doing. This may seem like a no-brainer but
+researchers have to make themselves familiar with the data they are working with, and,
+depending on the discipline, with the mechanisms that contribute to the observed patterns in the data.&lt;/p&gt;
+&lt;p&gt;Researchers are responsible for their products, and responsibility can best be borne by knowledgeable people.&lt;/p&gt;
+&lt;h4 id=&#34;finding-the-middle-ground&#34;&gt;Finding the middle ground&lt;/h4&gt;
+&lt;p&gt;The challenge that most participants of the round table addressed was to deal
+with trade-offs between simplicity and complexity. Policy makers want numbers
+to quantify things but a single number often provides incomplete information of complex
+relationships in the data. Dataviz helps to attach more information to numbers but
+visualising data properly takes more time&amp;mdash;and time is a limited resource in policy-making processes.&lt;/p&gt;
 </description>
     </item>
     
