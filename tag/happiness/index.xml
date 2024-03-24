@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Happiness | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/tag/happiness/</link>
+      <atom:link href="https://a-genoni.github.io/tag/happiness/index.xml" rel="self" type="application/rss+xml" />
+    <description>Happiness</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
+      <title>Happiness</title>
+      <link>https://a-genoni.github.io/tag/happiness/</link>
+    </image>
+    
+    <item>
+      <title>International migration and shifts in subjective well-being. A longitudinal study using German panel data</title>
+      <link>https://a-genoni.github.io/publication/genoni-et-al-2024-int-mig-and-swb/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/publication/genoni-et-al-2024-int-mig-and-swb/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Suggested Citation:&lt;/strong&gt; Genoni, A.; Stawarz, N.; Ette, A.; Rüger, H. (2024). International migration and shifts in subjective well-being: A longitudinal study using German panel data. &lt;em&gt;Migration Studies&lt;/em&gt;, 1-19. &lt;a href=&#34;https://doi.org/10.1093/migration/mnae008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1093/migration/mnae008&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

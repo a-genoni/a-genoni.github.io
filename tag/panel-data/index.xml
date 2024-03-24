@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panel data | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/tag/panel-data/</link>
+      <atom:link href="https://a-genoni.github.io/tag/panel-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Panel data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
+      <title>Panel data</title>
+      <link>https://a-genoni.github.io/tag/panel-data/</link>
+    </image>
+    
+    <item>
+      <title>International migration and shifts in subjective well-being. A longitudinal study using German panel data</title>
+      <link>https://a-genoni.github.io/publication/genoni-et-al-2024-int-mig-and-swb/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/publication/genoni-et-al-2024-int-mig-and-swb/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Suggested Citation:&lt;/strong&gt; Genoni, A.; Stawarz, N.; Ette, A.; Rüger, H. (2024). International migration and shifts in subjective well-being: A longitudinal study using German panel data. &lt;em&gt;Migration Studies&lt;/em&gt;, 1-19. &lt;a href=&#34;https://doi.org/10.1093/migration/mnae008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1093/migration/mnae008&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should I stay or should I go? Unmet migration expectations and out-migration of skilled recent immigrants</title>
+      <link>https://a-genoni.github.io/current-work/outmigration/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/current-work/outmigration/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Many knowledge-based economies are facing growing needs for skilled labour due to ageing populations, unsustainable fertility rates, and the ongoing green and digital transitions. Governments therefore increasingly depend on highly skilled immigrants in particular to respond to these challenges. However, highly skilled immigrants are probably more at risk of leaving their current country of residence compared to their lower-skilled counterparts. Empirical evidence suggests that highly skilled immigrants react comparably stronger to unmet migration expectations as their expectations to do well, fare well and be treated equally are particularly high, thus being more prone to be disappointed. Being highly qualified and more likely to cope with monetary and psychological consequences of migration decisions, such disappointment might lead them to pursue alternative career perspectives elsewhere in the global labour market, eventually making them leave the country. Here we analyse how unmet migration expectations of immigrants affect the probability of leaving their current destination country, and whether there are educational differences. We use panel data of recent immigrants to Switzerland from the Swiss Migration-Mobility (MMS) Survey and link them with administrative data to obtain information on immigrants’ whereabouts after being surveyed. Overall, we find that disappointed migration expectations increase the probability of immigrants to leave the country after the survey. Highly skilled immigrants are generally more likely to leave Switzerland than lower skilled immigrants. Importantly, however, we find that the stronger the migration disappointment, the greater is the likelihood of out-migration for highly skilled immigrants, making them particularly likely to leave.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

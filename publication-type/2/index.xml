@@ -5,7 +5,7 @@
     <link>https://a-genoni.github.io/publication-type/2/</link>
       <atom:link href="https://a-genoni.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,29 +13,35 @@
     </image>
     
     <item>
-      <title>International migration and subjective well-being</title>
-      <link>https://a-genoni.github.io/current-work/mig-and-swb/</link>
+      <title>International migration and shifts in subjective well-being. A longitudinal study using German panel data</title>
+      <link>https://a-genoni.github.io/publication/genoni-et-al-2024-int-mig-and-swb/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/publication/genoni-et-al-2024-int-mig-and-swb/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Suggested Citation:&lt;/strong&gt; Genoni, A.; Stawarz, N.; Ette, A.; Rüger, H. (2024). International migration and shifts in subjective well-being: A longitudinal study using German panel data. &lt;em&gt;Migration Studies&lt;/em&gt;, 1-19. &lt;a href=&#34;https://doi.org/10.1093/migration/mnae008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1093/migration/mnae008&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reactive cosmopolitanism? Migrants&#39; attachment to the EU as a response to social exclusion</title>
+      <link>https://a-genoni.github.io/current-work/reactive-cosmopolitanism/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://a-genoni.github.io/current-work/mig-and-swb/</guid>
+      <guid>https://a-genoni.github.io/current-work/reactive-cosmopolitanism/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;In many economically highly-developed countries, a relevant proportion
-of the population migrates across national boundaries every year. For these
-individuals, migrating abroad not only comes with advantages (e.g. monetary
-returns) but also with potential pitfalls, because migration is accompanied by
-profound changes in everyday life. However, only few and mainly cross-sectional
-studies about individuals’ migration expierences exist, analysing the effects
-of migration on their quality of life. This study addresses these lacunae and
-investigates shifts in subjective well-being (SWB) of internationally mobile
-German citizens. We apply fixed effects (FE) panel regression models to data of
-the German Emigration and Remigration Panel Study (GERPS). To observe SWB in
-the course of migration, we draw on a sample of repeat migrants—Germans who
-returned to Germany shortly before the panel and migrated again across international
-borders during the panel. As counterfactuals, we focus on Germans who returned
-to Germany shortly before the panel but stayed there. Overall life satisfaction
-is used as an SWB-indicator, which corresponds to a global assessment of one’s
-life situation. In sum, our analyses reveal a happiness dip before migration as
-well as an increased and relatively stable SWB at the pre-migration baseline
-level in the first two years after migration.&lt;/p&gt;
+&lt;p&gt;Empirical research has established an integration paradox (IP), describing that higher educated immigrants often feel more socially excluded and thus less attached to their destination country than their lower-educated counterparts. However, previous literature illustrates that conceptions of belonging can be derived from various levels, including supranational or more cosmopolitan ones such as Europe or the world as a whole. Combining these insights with studies on reactive ethnicity, we investigate to what extent identifying as cosmopolitan may be a reaction to stronger perceptions of social exclusion, and whether this differs for higher and lower educated immigrants. Our contribution to the IP literature is threefold: First, we explore how the integration paradox applies to supranational belonging by investigating belonging to Europe. Second, we use recent probability-based panel data by studying German migrants in over 130 countries worldwide. Third, by measuring feelings of being left out, we measure perceived social exclusion more broadly than by discrimination alone, arguing that also more implicit and indirect forms of exclusion affect immigrants’ feelings of belonging. Preliminary fixed effects analyses show that intensified feelings of being left out increase European attachment among immigrants in non-European countries, which is solely driven by higher educated immigrants, as lower educated immigrants show no such reactive behaviour. Overall, the study offers a new perspective on the drivers of cosmopolitanism by integrating insights from studies on the IP and reactive ethnicity, thereby also raising questions about the importance of national group membership for so-called world citizens.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should I stay or should I go? Unmet migration expectations and out-migration of skilled recent immigrants</title>
+      <link>https://a-genoni.github.io/current-work/outmigration/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/current-work/outmigration/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Many knowledge-based economies are facing growing needs for skilled labour due to ageing populations, unsustainable fertility rates, and the ongoing green and digital transitions. Governments therefore increasingly depend on highly skilled immigrants in particular to respond to these challenges. However, highly skilled immigrants are probably more at risk of leaving their current country of residence compared to their lower-skilled counterparts. Empirical evidence suggests that highly skilled immigrants react comparably stronger to unmet migration expectations as their expectations to do well, fare well and be treated equally are particularly high, thus being more prone to be disappointed. Being highly qualified and more likely to cope with monetary and psychological consequences of migration decisions, such disappointment might lead them to pursue alternative career perspectives elsewhere in the global labour market, eventually making them leave the country. Here we analyse how unmet migration expectations of immigrants affect the probability of leaving their current destination country, and whether there are educational differences. We use panel data of recent immigrants to Switzerland from the Swiss Migration-Mobility (MMS) Survey and link them with administrative data to obtain information on immigrants’ whereabouts after being surveyed. Overall, we find that disappointed migration expectations increase the probability of immigrants to leave the country after the survey. Highly skilled immigrants are generally more likely to leave Switzerland than lower skilled immigrants. Importantly, however, we find that the stronger the migration disappointment, the greater is the likelihood of out-migration for highly skilled immigrants, making them particularly likely to leave.&lt;/p&gt;
 </description>
     </item>
     

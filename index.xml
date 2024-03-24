@@ -13,6 +13,19 @@
     </image>
     
     <item>
+      <title>International migration and shifts in subjective well-being. A longitudinal study using German panel data</title>
+      <link>https://a-genoni.github.io/publication/genoni-et-al-2024-int-mig-and-swb/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/publication/genoni-et-al-2024-int-mig-and-swb/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Suggested Citation:&lt;/strong&gt; Genoni, A.; Stawarz, N.; Ette, A.; Rüger, H. (2024). International migration and shifts in subjective well-being: A longitudinal study using German panel data. &lt;em&gt;Migration Studies&lt;/em&gt;, 1-19. &lt;a href=&#34;https://doi.org/10.1093/migration/mnae008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1093/migration/mnae008&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Ever wondered about the movement of people around the world?</title>
       <link>https://a-genoni.github.io/post/2023-12-18-global-flow-2.0/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
@@ -29,10 +42,12 @@ You can find out more about the data and the visualisation on the &lt;a href=&#3
     
     <item>
       <title>Is it all about the costs? Cultural distance and adjustment of recent migrants</title>
-      <link>https://a-genoni.github.io/publication/genoni-et-al-2023-is-it-all-about-costs/</link>
+      <link>https://a-genoni.github.io/current-work/genoni-et-al-2023-is-it-all-about-costs/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://a-genoni.github.io/publication/genoni-et-al-2023-is-it-all-about-costs/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://a-genoni.github.io/current-work/genoni-et-al-2023-is-it-all-about-costs/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;The cultural distance (CD) between the origin and destination country of migrants has long been considered important for individual adjustment. Past research predominantly followed a cost perspective, emphasising rising adjustment costs with increasing CD and postulating a negative linear relationship. Previous studies therefore overlooked potential benefits of CD for adjustment. We address this gap by taking a more differentiated perspective on CD and adjustment. Using probability-based survey data on recent German migrants , we examined migrant adjustment at different CD-levels. Employing multilevel regressions for sociocultural and psychological adjustment, the findings reveal an inverted-U shaped relationship between CD and both adjustment dimensions. This challenges the cost perspective, indicating an “optimal” range of intermediate CD as most beneficial for adjustment. Thus, the prevailing view on negative consequences of CD for adjustment may underestimate the challenges for culturally close migrants, and overlook that certain levels of cultural dissimilarity can facilitate migrants’ adjustment.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;strong&gt;Suggested citation:&lt;/strong&gt; Genoni, A.; Décieux, J. P.; Murdock, E. (2023). Is it all about the costs? Cultural distance and adjustment of recent migrants. &lt;em&gt;SocArXiv&lt;/em&gt;. doi: &lt;a href=&#34;https://doi.org/10.31235/osf.io/uskq9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.31235/osf.io/uskq9&lt;/a&gt;.
   &lt;/div&gt;
@@ -189,35 +204,30 @@ visualising data properly takes more time&amp;mdash;and time is a limited resour
 &lt;ul&gt;
 &lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;Is it all about the costs? Cultural distance and adjustment of recent migrants&lt;/span&gt; | with Jean Philippe Décieux and Elke Murdock | &lt;a href=&#34;https://doi.org/10.31235/osf.io/uskq9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;
 &lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Expatriate adjustment and the role of cultural distance&lt;/span&gt; | with Jean Philippe Décieux and Heiko Rüger&lt;/li&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Expatriate adjustment and the role of cultural distance&lt;/span&gt; | with Jean Philippe Décieux and Heiko Rüger
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Between cultural proximity and distance: Understanding the role of cultural distance for perceived ostracism&lt;/span&gt; | with Selma Rudert, Jean Philippe Décieux, Elianne Albath and Christiane Büttner&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>International migration and subjective well-being</title>
-      <link>https://a-genoni.github.io/current-work/mig-and-swb/</link>
+      <title>Reactive cosmopolitanism? Migrants&#39; attachment to the EU as a response to social exclusion</title>
+      <link>https://a-genoni.github.io/current-work/reactive-cosmopolitanism/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://a-genoni.github.io/current-work/mig-and-swb/</guid>
+      <guid>https://a-genoni.github.io/current-work/reactive-cosmopolitanism/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;In many economically highly-developed countries, a relevant proportion
-of the population migrates across national boundaries every year. For these
-individuals, migrating abroad not only comes with advantages (e.g. monetary
-returns) but also with potential pitfalls, because migration is accompanied by
-profound changes in everyday life. However, only few and mainly cross-sectional
-studies about individuals’ migration expierences exist, analysing the effects
-of migration on their quality of life. This study addresses these lacunae and
-investigates shifts in subjective well-being (SWB) of internationally mobile
-German citizens. We apply fixed effects (FE) panel regression models to data of
-the German Emigration and Remigration Panel Study (GERPS). To observe SWB in
-the course of migration, we draw on a sample of repeat migrants—Germans who
-returned to Germany shortly before the panel and migrated again across international
-borders during the panel. As counterfactuals, we focus on Germans who returned
-to Germany shortly before the panel but stayed there. Overall life satisfaction
-is used as an SWB-indicator, which corresponds to a global assessment of one’s
-life situation. In sum, our analyses reveal a happiness dip before migration as
-well as an increased and relatively stable SWB at the pre-migration baseline
-level in the first two years after migration.&lt;/p&gt;
+&lt;p&gt;Empirical research has established an integration paradox (IP), describing that higher educated immigrants often feel more socially excluded and thus less attached to their destination country than their lower-educated counterparts. However, previous literature illustrates that conceptions of belonging can be derived from various levels, including supranational or more cosmopolitan ones such as Europe or the world as a whole. Combining these insights with studies on reactive ethnicity, we investigate to what extent identifying as cosmopolitan may be a reaction to stronger perceptions of social exclusion, and whether this differs for higher and lower educated immigrants. Our contribution to the IP literature is threefold: First, we explore how the integration paradox applies to supranational belonging by investigating belonging to Europe. Second, we use recent probability-based panel data by studying German migrants in over 130 countries worldwide. Third, by measuring feelings of being left out, we measure perceived social exclusion more broadly than by discrimination alone, arguing that also more implicit and indirect forms of exclusion affect immigrants’ feelings of belonging. Preliminary fixed effects analyses show that intensified feelings of being left out increase European attachment among immigrants in non-European countries, which is solely driven by higher educated immigrants, as lower educated immigrants show no such reactive behaviour. Overall, the study offers a new perspective on the drivers of cosmopolitanism by integrating insights from studies on the IP and reactive ethnicity, thereby also raising questions about the importance of national group membership for so-called world citizens.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should I stay or should I go? Unmet migration expectations and out-migration of skilled recent immigrants</title>
+      <link>https://a-genoni.github.io/current-work/outmigration/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/current-work/outmigration/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Many knowledge-based economies are facing growing needs for skilled labour due to ageing populations, unsustainable fertility rates, and the ongoing green and digital transitions. Governments therefore increasingly depend on highly skilled immigrants in particular to respond to these challenges. However, highly skilled immigrants are probably more at risk of leaving their current country of residence compared to their lower-skilled counterparts. Empirical evidence suggests that highly skilled immigrants react comparably stronger to unmet migration expectations as their expectations to do well, fare well and be treated equally are particularly high, thus being more prone to be disappointed. Being highly qualified and more likely to cope with monetary and psychological consequences of migration decisions, such disappointment might lead them to pursue alternative career perspectives elsewhere in the global labour market, eventually making them leave the country. Here we analyse how unmet migration expectations of immigrants affect the probability of leaving their current destination country, and whether there are educational differences. We use panel data of recent immigrants to Switzerland from the Swiss Migration-Mobility (MMS) Survey and link them with administrative data to obtain information on immigrants’ whereabouts after being surveyed. Overall, we find that disappointed migration expectations increase the probability of immigrants to leave the country after the survey. Highly skilled immigrants are generally more likely to leave Switzerland than lower skilled immigrants. Importantly, however, we find that the stronger the migration disappointment, the greater is the likelihood of out-migration for highly skilled immigrants, making them particularly likely to leave.&lt;/p&gt;
 </description>
     </item>
     
@@ -234,7 +244,11 @@ level in the first two years after migration.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2022 | &lt;span style=&#34;color:#93003a&#34;&gt;Status and Ethnic Identity. A Study on First- and Second-Generation Migrants in Germany.&lt;/span&gt; Verlag Barbara Budrich | &lt;a href=&#34;https://a-genoni.github.io/publication/genoni-2022-status-and-ethnic-identity/&#34;&gt;Publication&lt;/a&gt;
 &lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Unmet migration expectations and their consequences for the lives of immigrants&lt;/span&gt; | with Didier Ruedin | &lt;a href=&#34;https://a-genoni.github.io/current-work/expectations-and-attachment/&#34;&gt;Scientific abstract&lt;/a&gt; | &lt;a href=&#34;https://a-genoni.github.io/uploads/10_Genoni%20&amp;%20Ruedin.%202023.%20Departure%20for%20the%20Promised%20Land.pdf&#34;&gt;&lt;span &gt;Blog post&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Unmet migration expectations and their consequences for the lives of immigrants&lt;/span&gt; | with Didier Ruedin | &lt;a href=&#34;https://a-genoni.github.io/current-work/expectations-and-attachment/&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://a-genoni.github.io/uploads/10_Genoni%20&amp;%20Ruedin.%202023.%20Departure%20for%20the%20Promised%20Land.pdf&#34;&gt;&lt;span &gt;Blog post&lt;/span&gt;&lt;/a&gt;
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Reactive cosmopolitanism? Migrants&amp;rsquo; attachment to the EU as a response to social exclusion&lt;/span&gt; | with Nella Geurts | &lt;a href=&#34;https://a-genoni.github.io/current-work/reactive-cosmopolitanism/&#34;&gt;Abstract&lt;/a&gt;
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Should I stay or should I go? Unmet migration expectations and out-migration of skilled recent immigrants&lt;/span&gt; | with Didier Ruedin and Philippe Wanner | &lt;a href=&#34;https://a-genoni.github.io/current-work/outmigration/&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -249,13 +263,13 @@ level in the first two years after migration.&lt;/p&gt;
 &lt;p&gt;This project brings together work about whether these people succeed, and the factors that contribute to achieving or missing their goal.&lt;/p&gt;
 &lt;h4 id=&#34;related-work&#34;&gt;Related work&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;2024 | &lt;span style=&#34;color:#93003a&#34;&gt;International migration and shifts in subjective well-being: A longitudinal study using German panel data&lt;/span&gt; &lt;em&gt;Migration Studies&lt;/em&gt; | with Nico Stawarz, Andreas Ette, and Heiko Rüger | &lt;a href=&#34;https://a-genoni.github.io/uploads/3_Genoni%20et%20al.%20Poster%20Turning%20Gold.pdf&#34;&gt;&lt;span &gt;Poster&lt;/span&gt;&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1093/migration/mnae008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article&lt;/a&gt;
+&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;Subjektives Wohlbefinden und demografische Ergeinisse im Lebenslauf.&lt;/span&gt; &lt;em&gt;WISTA - Wirtschaft und Statistik, 6&lt;/em&gt; | with Volker Cihlar, Nadja Milewski, C. Katharina Spieß, and Nico Stawarz | &lt;a href=&#34;https://a-genoni.github.io/uploads/12_Cihlar%20et%20al.%202023.%20Subjektives%20Wohlbefinden%20und%20demografische%20Ereignisse%20im%20Lebenslauf.pdf&#34;&gt;&lt;span &gt;PDF&lt;/span&gt;&lt;/a&gt;
 &lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;2023 | &lt;span style=&#34;color:#93003a&#34;&gt;BiB.Monitor Wohlbefinden 2023. Wie zufrieden ist die Bevölkerung Deutschlands?&lt;/span&gt; | with C. Katharina Spieß, Mara Barschkett, Volker Cihlar, Anna Dechant, Jean Philipp Décieux, Sabine Diabaté, Elke Lochinger, Nadja Milewski, Heiko Rüger, Sophia Schmitz, and Nico Stawarz | &lt;a href=&#34;https://a-genoni.github.io/uploads/9_Spie%C3%9F%20et%20al.%202023.%20BiB-Monitor-Wohlbefinden-Wie-zufrieden-ist-die-Bevoelkerung-in-Deutschland.pdf&#34;&gt;&lt;span &gt;PDF&lt;/span&gt;&lt;/a&gt;
 &lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Return migration and its impact on individuals&amp;rsquo; subjective well-being&lt;/span&gt; | with Martijn Hendriks and Nico Stawarz
-&lt;br /&gt; &lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Subjective well-being in the course of international migration&lt;/span&gt; | with Nico Stawarz, Andreas Ette, and Heiko Rüger | &lt;a href=&#34;https://a-genoni.github.io/uploads/3_Genoni%20et%20al.%20Poster%20Turning%20Gold.pdf&#34;&gt;&lt;span &gt;Poster&lt;/span&gt;&lt;/a&gt; | &lt;a href=&#34;https://a-genoni.github.io/current-work/mig-and-swb/&#34;&gt;Scientific abstract&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Work in progress | &lt;span style=&#34;color:#93003a&#34;&gt;Return migration and its impact on individuals&amp;rsquo; subjective well-being&lt;/span&gt; | with Martijn Hendriks and Nico Stawarz&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
