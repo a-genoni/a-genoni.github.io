@@ -5,7 +5,7 @@
     <link>https://a-genoni.github.io/tag/out-migration/</link>
       <atom:link href="https://a-genoni.github.io/tag/out-migration/index.xml" rel="self" type="application/rss+xml" />
     <description>Out-migration</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
       <title>Out-migration</title>
@@ -13,9 +13,24 @@
     </image>
     
     <item>
-      <title>Should I stay or should I go? Unmet migration expectations and out-migration of skilled recent immigrants</title>
+      <title>The conference summer goes on</title>
+      <link>https://a-genoni.github.io/post/2024-09-22-sgs-and-ecsr/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/post/2024-09-22-sgs-and-ecsr/</guid>
+      <description>&lt;p&gt;Meanwhile, almost everybody in the office had his/her conference trip this year. Thus, it was about time to head out myself to meet new people, chat with dear colleagues, and talk about ongoing projects to get some feedback.&lt;/p&gt;
+&lt;h3 id=&#34;ssa-an-early-integration-paradox&#34;&gt;SSA: An early integration paradox?&lt;/h3&gt;
+&lt;p&gt;My first stop was Muttenz, a place close to Basel, where this years congress of the Swiss Sociological Association (SSA) took place. I had the opportunity to present an ongoing research project of &lt;a href=&#34;https://druedin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Didier Ruedin&lt;/a&gt; (Université de Neuchâtel) and myself.&lt;/p&gt;
+&lt;p&gt;The project uses longitudinal data of immigrants who recently arrived in Switzerland to explore the possibility of an &amp;ldquo;early&amp;rdquo; integration paradox as we refer to it. Scholars typically argue that the integration paradox, the phenomenon that seemingly integrated immigrants do not perceive themselves as integrated, actually reflects progress in integration. The reasoning behind this argument is that if immigrants and locals become more similar, the smaller differences become more salient and potentially problematic&amp;ndash;particularly for immigrants with visually distinct phenotypical markers or clothing. Clearly, this argument neglects the situation of recent immigrants who are at the beginning of their integration process. In our study, we investigate whether immigrants in this early stage might experience an integration paradox as well, and discuss why visually distinct immigrants of all people might be less affected.&lt;/p&gt;
+&lt;h3 id=&#34;ecsr-should-i-stay-or-should-i-go-out-migration-of-recent-immigrants-to-switzerland&#34;&gt;ECSR: Should I stay or should I go? Out-migration of recent immigrants to Switzerland&lt;/h3&gt;
+&lt;p&gt;The second stop was Barcelona, the capitol of Catalonia. The European Consortium for Sociological Research (ECSR) held its annual conference at the Universitat Pompeu Fabra. Besides getting inspired by great people and their projects, I had the honour to present a project of &lt;a href=&#34;https://www.unige.ch/sciences-societe/ideso/membres/wanner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philippe Wanner&lt;/a&gt; (Université de Genève), &lt;a href=&#34;https://druedin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Didier Ruedin&lt;/a&gt; (Université de Neuchâtel) and myself, in which we investigate whether unmet migration expectations increase the chance that immigrants leave the country to which they have just immigrated.&lt;/p&gt;
+&lt;p&gt;We created an original panel data set by linking Swiss survey data with Swiss admin data. This way, we connected individual-level information of immigrants with registry information on their whereabouts after they have dropped out of the survey. This project takes a behavioural perspective on the integration paradox and investigates whether disappointment about life abroad not only weaken immigrants&amp;rsquo; emotional bonds to their destination country but also actually make them leave. Your hunch? Have a look at the findings &lt;a href=&#34;https://a-genoni.github.io/current-work/outmigration/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should I stay or should I go? Unmet migration expectations and out-migration of highly educated recent immigrants</title>
       <link>https://a-genoni.github.io/current-work/outmigration/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://a-genoni.github.io/current-work/outmigration/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Many knowledge-based economies are facing growing needs for skilled labour due to ageing populations, unsustainable fertility rates, and the ongoing green and digital transitions. Governments therefore increasingly depend on highly skilled immigrants in particular to respond to these challenges. However, highly skilled immigrants are probably more at risk of leaving their current country of residence compared to their lower-skilled counterparts. Empirical evidence suggests that highly skilled immigrants react comparably stronger to unmet migration expectations as their expectations to do well, fare well and be treated equally are particularly high, thus being more prone to be disappointed. Being highly qualified and more likely to cope with monetary and psychological consequences of migration decisions, such disappointment might lead them to pursue alternative career perspectives elsewhere in the global labour market, eventually making them leave the country. Here we analyse how unmet migration expectations of immigrants affect the probability of leaving their current destination country, and whether there are educational differences. We use panel data of recent immigrants to Switzerland from the Swiss Migration-Mobility (MMS) Survey and link them with administrative data to obtain information on immigrants’ whereabouts after being surveyed. Overall, we find that disappointed migration expectations increase the probability of immigrants to leave the country after the survey. Highly skilled immigrants are generally more likely to leave Switzerland than lower skilled immigrants. Importantly, however, we find that the stronger the migration disappointment, the greater is the likelihood of out-migration for highly skilled immigrants, making them particularly likely to leave.&lt;/p&gt;
