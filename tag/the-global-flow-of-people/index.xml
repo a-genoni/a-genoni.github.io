@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The global flow of people | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/tag/the-global-flow-of-people/</link>
+      <atom:link href="https://a-genoni.github.io/tag/the-global-flow-of-people/index.xml" rel="self" type="application/rss+xml" />
+    <description>The global flow of people</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
+      <title>The global flow of people</title>
+      <link>https://a-genoni.github.io/tag/the-global-flow-of-people/</link>
+    </image>
+    
+    <item>
+      <title>New publication: A practical guide for creating circular migration plots</title>
+      <link>https://a-genoni.github.io/post/2024-10-19-publication-dataviz/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/post/2024-10-19-publication-dataviz/</guid>
+      <description>&lt;p&gt;Are you starting a project on the migration of people? Do you need some practical advice and guidance about how to visualise these people&amp;rsquo;s movement? If so, this hands-on article might come in handy for you.&lt;/p&gt;
+&lt;h3 id=&#34;why-the-article-could-be-valuable-for-you&#34;&gt;Why the article could be valuable for you&lt;/h3&gt;
+&lt;p&gt;Visualising migration flows can be a messy endeavour. Using world maps as a basis has proven impractical due to the different sizes of countries or regions and migration flows that go in and out from designated areas. Dataviz techniques such as flow charts perform a bit better with respect to variation in size of regions and flows, but struggle as soon as there are too many regions that you want to visualise.&lt;/p&gt;
+&lt;p&gt;With circular migration plots (simplified version in the image above), you are able to visualise migration inflows and outflows between numerous regions at the same time without overburdening your readers. In the article, we give you practical advice on how to create your own plots and provide free access to the necessary R code (see also below). We discuss the pros and cons of visualising migration flows using circular migration plots, and talk about colour choice, accessibility and other design elements creators have to decide upon, giving examples of better and less good implementations of such decisions.&lt;/p&gt;
+&lt;h3 id=&#34;get-the-article-and-code-for-free&#34;&gt;Get the article and code for free&lt;/h3&gt;
+&lt;p&gt;You find the article online at &lt;a href=&#34;https://www.elgaronline.com/edcollchap/book/9781800378032/book-part-9781800378032-32.xml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Edward Elgar Publishing&lt;/a&gt;. Just get in touch with me if you lack access. The code and data to reproduce the plots we created in the article are available for free on my &lt;a href=&#34;https://github.com/a-genoni/visualising-migration-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;This contribution is joint-work with my dear and former colleague &lt;a href=&#34;http://nikolasander.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikola Sander&lt;/a&gt;. She was instrumental in establishing the circular plot in migration research. &lt;a href=&#34;https://doi.org/10.1126/science.1248676&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; you can check out her seminal paper about &amp;ldquo;quantifying global international migration flows&amp;rdquo;, which was published in &lt;em&gt;Science&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;interactive-visualisation-of-migration-flows&#34;&gt;Interactive visualisation of migration flows&lt;/h3&gt;
+&lt;p&gt;We also created an interactive tool with which you can browse through the past 30 years of global international migration and refugee flows, and internal migration flows in Germany. The tool is very useful to learn about the history and changes of the movement of people worldwide. You can download all the materials, including static visualizations of the tool, a poster of the project, and code to reproduce the tool and the static plots &lt;a href=&#34;https://www.bib.bund.de/EN/Service/Tools/Migration/Globalflows.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. This project was realised together with &lt;a href=&#34;https://www.bib.bund.de/DE/Institut/Mitarbeiter/Kolowa/Kolowa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tamilwai Kolowa (BiB)&lt;/a&gt;, Tina Frank, Clemens Schrammel (both University of Arts Linz), and Ramon Bauer (Statistics Vienna).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
