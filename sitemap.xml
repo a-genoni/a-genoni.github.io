@@ -2,8 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://a-genoni.github.io/tag/australia/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://a-genoni.github.io/categories/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/intersectionality/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/mms/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/parenthood/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/post/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/research-stay/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/category/research-stay/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/post/2025-05-06-stay-at-anu/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tags/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/category/talk/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/category/conference/</loc>
@@ -18,15 +58,7 @@
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/tag/mms/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/tag/out-migration/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/post/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -35,14 +67,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/tag/switzerland/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tags/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/category/talk/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -175,10 +199,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/post/2024-03-19-nella-in-wiesbaden/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/category/research-stay/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
