@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://a-genoni.github.io/categories/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/conference/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/category/conference/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/post/2025-09-05-ecsr-and-minmig/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/integration-paradox/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/mms/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/post/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tags/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/category/talk/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/workshop/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/category/workshop/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://a-genoni.github.io/publication-type/2/</loc>
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,14 +62,6 @@
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/categories/</loc>
-    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/category/conference/</loc>
-    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/tag/discrimination/</loc>
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,23 +74,11 @@
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/tag/integration-paradox/</loc>
-    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/tag/international-migration/</loc>
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/tag/mms/</loc>
-    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/tag/panel-data/</loc>
-    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/post/</loc>
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -66,35 +90,15 @@
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/tags/</loc>
-    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/publication/genoni-ruedin-2025-expectations/</loc>
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tag/conference/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/post/2025-06-23-workshop-uu/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/category/talk/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/tag/utrecht/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tag/workshop/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/category/workshop/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -138,6 +142,38 @@
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://a-genoni.github.io/current-work/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/gerps/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/happiness/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/life-satisfaction/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/migration-motives/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/current-work/reactive-cosmopolitanism/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/tag/supranational-belonging/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://a-genoni.github.io/current-work/return-migration/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://a-genoni.github.io/post/2024-11-20-cfp-ip-workshop/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -174,10 +210,6 @@
     <lastmod>2024-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/tag/gerps/</loc>
-    <lastmod>2024-08-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/post/2024-08-27-esa-conference/</loc>
     <lastmod>2024-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -196,10 +228,6 @@
   </url><url>
     <loc>https://a-genoni.github.io/tag/transfar/</loc>
     <lastmod>2024-08-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tag/life-satisfaction/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/post/2024-03-20-publication-swb/</loc>
@@ -222,36 +250,12 @@
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://a-genoni.github.io/tag/happiness/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://a-genoni.github.io/publication/genoni-et-al-2024-int-mig-and-swb/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/tag/international-mobility/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/current-work/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/current-work/reactive-cosmopolitanism/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/current-work/outmigration/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tag/skilled-migration/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://a-genoni.github.io/tag/supranational-belonging/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://a-genoni.github.io/tag/data-visualisation/</loc>

@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Migration motives | Andreas Genoni</title>
+    <title>migration motives | Andreas Genoni</title>
     <link>https://a-genoni.github.io/tag/migration-motives/</link>
       <atom:link href="https://a-genoni.github.io/tag/migration-motives/index.xml" rel="self" type="application/rss+xml" />
-    <description>Migration motives</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <description>migration motives</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
-      <title>Migration motives</title>
+      <title>migration motives</title>
       <link>https://a-genoni.github.io/tag/migration-motives/</link>
     </image>
     
     <item>
-      <title>Internationale Mobilität und Sozialstruktur</title>
-      <link>https://a-genoni.github.io/publication/ette-et-al-2021-internationale-mobilitat/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://a-genoni.github.io/publication/ette-et-al-2021-internationale-mobilitat/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;strong&gt;Suggested citation:&lt;/strong&gt; Ette, A., Genoni, A., &amp;amp; Witte, N. (2021). Internationale Mobilität und Sozialstruktur. In Federal Statistical Office, Berlin Social Science Center and Federal Institute for Population Research (Eds.), &lt;em&gt;Datenreport 2021. Ein Sozialbericht für die Bundesrepublik Deutschland&lt;/em&gt; (pp. 316–323). Bundeszentrale für politische Bildung.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <title>The return of the failed? A panel study on the subjective well-being of privileged return migrants</title>
+      <link>https://a-genoni.github.io/current-work/return-migration/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://a-genoni.github.io/current-work/return-migration/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;A significant share of international migrants eventually return to their home countries. From a neoclassical economic (NE) perspective, returnees are conceived as ‘failed emigrants’ who return due to unmet emigration expectations. In contrast, the new economics of labor migration (NELM) views returnees as successful migrants who return after achieving their goals abroad. Within this theoretical framework, return migration is often examined in relation to economic outcomes. However, little is known about the impact of return migration on subjective well-being (SWB) as a more global measure of individuals’ life situations. We address this research gap by examining changes in SWB among privileged migrants, focusing on internationally mobile German citizens be-fore and after their return to Germany. Using fixed effects (FE) panel regression models and impact functions, we analyze probability-based data of the German Emigration and Remigration Panel Study (GERPS), which is representative of the target population. Our findings reveal that returnees’ SWB decreases slightly abroad, while remaining stable upon return. We also find that SWB trajecto-ries around return migration are conditional on return motives. In particular, those unhappy about life abroad experience a SWB gain upon return.&lt;/p&gt;
 </description>
     </item>
     
