@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Switzerland | Andreas Genoni</title>
-    <link>https://a-genoni.github.io/tag/switzerland/</link>
-      <atom:link href="https://a-genoni.github.io/tag/switzerland/index.xml" rel="self" type="application/rss+xml" />
-    <description>Switzerland</description>
+    <title>Knowledge transfer | Andreas Genoni</title>
+    <link>https://a-genoni.github.io/category/knowledge-transfer/</link>
+      <atom:link href="https://a-genoni.github.io/category/knowledge-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Knowledge transfer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://a-genoni.github.io/media/icon_hu36d72c3cf6f96053b96f9b849fe00da0_28466_512x512_fill_lanczos_center_3.png</url>
-      <title>Switzerland</title>
-      <link>https://a-genoni.github.io/tag/switzerland/</link>
+      <title>Knowledge transfer</title>
+      <link>https://a-genoni.github.io/category/knowledge-transfer/</link>
     </image>
     
     <item>
